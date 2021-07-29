@@ -7,3 +7,11 @@
 - JWT Expiration
 - Provide refresh token if the user is in the same session
 - Stronger input validation
+- Better Model validation (email / password)
+
+## Startup Instructions
+
+- Clone repository
+- run `yarn install`
+- to start w/ nodemon run `yarn dev`
+- to start normally run `yarn start`
