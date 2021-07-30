@@ -13,5 +13,6 @@
 
 - Clone repository
 - run `yarn install`
+- Create a `.env` file following the `.env-sample`
 - to start w/ nodemon run `yarn dev`
 - to start normally run `yarn start`
